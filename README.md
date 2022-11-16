@@ -20,3 +20,11 @@ _We want to discover connections between recipies and ingredients, and find the 
   > We will be matching the reviews with the graph of recipies 
 
 
+| Task  | State  | Assigned to |
+| ------------- | ------------- | | ------------- | 
+| Create graph  | Active          |   Zuzi /Lu  |
+| Find Communities | Pending      |   Jakub     |
+| Inverted graph to find centrality of recipes per community  | Pending | Zuzia/Jakub |
+| NLP analysis of reviews  | Pending  | Lu
+
+
