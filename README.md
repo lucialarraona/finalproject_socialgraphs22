@@ -10,6 +10,19 @@ _We want to discover connections between recipies and ingredients, and find the 
 - The data we will use was downloaded from https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions?select=RAW_interactions.csv
 - Paper: https://aclanthology.org/D19-1613/
 
+
+## Task Log
+
+| **Task** | **Description** | **Status** | **Assigned to** |
+| --- | --- | -- | -- |
+| Data subset and graph | Find the correct subset and plot it forceatlas | Pending | Lu |
+| Find communities | User communities | Pending | Zuzia |
+| Wordclouds ingredients per community | User communities | Pending | Zuzia |
+| Inverse graph (recipes) | from each community| Pending | Jakub|
+| Node centrality (most popular recipe) | from each community | Pending | Jakub|
+| NLP analysis reviews | from each community | Pending | Lu |
+
+
 ## Overview of questions
 
 * **What is the network you will be analysing?**
@@ -18,6 +31,8 @@ _We want to discover connections between recipies and ingredients, and find the 
   > We will be analysing the users reviews of the recipies 
 * **How will you tie networks and text together in your paper?**
   > We will be matching the reviews with the graph of recipies 
+
+
 
 
 
