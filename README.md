@@ -1,4 +1,4 @@
-# Analysis of National Dishes around the world 🥘
+# Network Analysis of Users, Recipes and Reviews 🥘
 Repo for the final project in Social Graphs @ DTU
 
 ## The motivation and goal 
@@ -15,8 +15,8 @@ _We want to discover connections between recipies and ingredients, and find the 
 
 | **Task** | **Description** | **Status** | **Assigned to** |
 | --- | --- | -- | -- |
-| Data subset and graph | Find the correct subset and plot it forceatlas | Pending | Lu |
-| Find communities | User communities | Pending | Zuzia |
+| Data subset and graph | Find the correct subset and plot it forceatlas | **DONE** | Lu |
+| Find communities | User communities | **DONE** | Zuzia |
 | Wordclouds ingredients per community | User communities | Pending | Zuzia |
 | Inverse graph (recipes) | from each community| Pending | Jakub|
 | Node centrality (most popular recipe) | from each community | Pending | Jakub|
