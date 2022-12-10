@@ -1,4 +1,4 @@
-# Network Analysis of Users, Recipes and Reviews 🥘
+# Network Analysis of Food.com: Users, Recipes and Reviews 🥘
 Repo for the final project in Social Graphs @ DTU
 
 ## The motivation and goal 
@@ -17,10 +17,10 @@ _We want to discover connections between recipies and ingredients, and find the 
 | --- | --- | -- | -- |
 | Data subset and graph | Find the correct subset and plot it forceatlas | **DONE** | Lu |
 | Find communities | User communities | **DONE** | Zuzia |
-| Wordclouds ingredients per community | User communities | Pending | Zuzia |
-| Inverse graph (recipes) | from each community| Pending | Jakub|
-| Node centrality (most popular recipe) | from each community | Pending | Jakub|
-| NLP analysis reviews | from each community | Pending | Lu |
+| Wordclouds ingredients per community | User communities | **DONE** | Zuzia |
+| Inverse graph (recipes) | from each community| **DONE** | Jakub|
+| Node centrality (most popular recipe) | from each community |**DONE**| Jakub|
+| NLP analysis reviews | from each community | **DONE** | Lu |
 
 
 ## Overview of questions
