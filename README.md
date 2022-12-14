@@ -11,17 +11,6 @@ _We want to discover connections between users, recipes and ingredients, and exp
 - Paper: https://aclanthology.org/D19-1613/
 
 
-## Task Log
-
-| **Task** | **Description** | **Status** | **Assigned to** |
-| --- | --- | -- | -- |
-| Data subset and graph | Find the correct subset and plot it forceatlas | **DONE** | Lu |
-| Find communities | User communities | **DONE** | Zuzia |
-| Wordclouds ingredients per community | User communities | **DONE** | Zuzia |
-| Inverse graph (recipes) | from each community| **DONE** | Jakub|
-| Node centrality | from each community | **DONE** | Jakub|
-| NLP analysis reviews + new rating score | from each community | **DONE** | Lu |
-
 
 ## Overview of questions (Project Part A)
 
@@ -30,7 +19,7 @@ _We want to discover connections between users, recipes and ingredients, and exp
 * **What is the text you will be analysing?**
   > We will be analysing the users reviews of the recipes 
 * **How will you tie networks and text together in your paper?**
-  > We will be matching the reviews with the graph of recipes 
+  > We will be matching the reviews with the graph of user interactions of recipes rating
 
 
 
